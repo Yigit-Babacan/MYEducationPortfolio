@@ -37,22 +37,19 @@ Bu proje, **M&Y Yazılım Eğitim Akademi (Murat Yücedağ)** kapsamında **1. P
 
 ### Site Arayüzü
 
-| Ana Sayfa | Hakkımda |
-| :---: | :---: |
-| ![Ana Sayfa]<img width="1905" height="938" alt="image" src="https://github.com/user-attachments/assets/21cb643a-aefb-4f59-a234-7fcdbfd6362b" />
- ![Hakkımda]<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/6ddd182b-8908-405b-8389-873092e6d69b" />
+
+ <img width="1905" height="938" alt="image" src="https://github.com/user-attachments/assets/21cb643a-aefb-4f59-a234-7fcdbfd6362b" />
+ <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/6ddd182b-8908-405b-8389-873092e6d69b" />
 
 
-| Yeteneklerim | Eğitim Hayatım |
-| :---: | :---: |
-| ![Yeteneklerim]<img width="1911" height="911" alt="image" src="https://github.com/user-attachments/assets/a82ce58f-729c-4817-8aa3-8539fbf41ae7" />
-![Eğitim]<img width="1914" height="687" alt="image" src="https://github.com/user-attachments/assets/64924435-8c91-4011-8d0e-b7cabb2bb94a" />
 
 
-| Projelerim | İletişim |
-| :---: | :---: |
-| ![Projelerim]<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/0b9edebb-cdf4-4b68-9b8e-8fb052fe32bd" />
- ![İletişim]<img width="1895" height="827" alt="image" src="https://github.com/user-attachments/assets/cd99cf4e-e8b6-43fc-ae7b-b21b50559402" />
+<img width="1911" height="911" alt="image" src="https://github.com/user-attachments/assets/a82ce58f-729c-4817-8aa3-8539fbf41ae7" />
+<img width="1914" height="687" alt="image" src="https://github.com/user-attachments/assets/64924435-8c91-4011-8d0e-b7cabb2bb94a" />
+
+
+<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/0b9edebb-cdf4-4b68-9b8e-8fb052fe32bd" />
+<img width="1895" height="827" alt="image" src="https://github.com/user-attachments/assets/cd99cf4e-e8b6-43fc-ae7b-b21b50559402" />
 
 
 ### Yönetim Paneli (Admin)
